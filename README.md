@@ -1,5 +1,5 @@
 ```
-end to end project setup using vs code, git bash
+end to end project setup using vs code, git bash and shellscript
 ```
 ```
 steps followed are
