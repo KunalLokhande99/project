@@ -13,5 +13,6 @@ steps followed are
 5. add LICENCE file
 6. add gitignore file
 7. add init_setup.sh (shell script) file
-8. corrections as needed
+8. create virtual environment 
+9. corrections as needed
 ```
